@@ -1,2 +1,1 @@
-# prova
-Created with CodeSandbox
+# corso-react
